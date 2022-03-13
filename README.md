@@ -40,5 +40,3 @@ Như vậy với mỗi ô vuông chúng ta cần dữ đoán một vector có (n
 Sau khoảng 100 epochs, các bạn có thể đạt được 0.9 iou trên tập test gồm 5k mẫu dữ liệu. 
 ![dataset](/image/yolo_train_result.png)
 
-## Any Problems
-Nếu bạn có bất kì vấn đề gì, vui lòng liên hệ với mình qua email: pbcquoc@gmail.com
